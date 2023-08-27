@@ -3,6 +3,6 @@
 
               Kit and Cressensia : cnn
               Jeff and HS : naive bayes
-              Cressensia, Kit, and Justin : SVM
+              Cressensia, Kit, and JZ : SVM
 
 
