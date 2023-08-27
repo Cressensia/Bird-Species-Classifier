@@ -1,5 +1,5 @@
 
--------------- Bird Species Recognition _ ---------------
+-------------- Bird Species Classifier ---------------
 
               Kit and Cressensia : cnn
               Jeff and HS : naive bayes
