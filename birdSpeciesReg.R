@@ -1,5 +1,4 @@
 # Importing the dataset 
-#setwd("~/Documents/info411/project/") 
 
 #------ visualisation of data -----
 # remove scientific notation
